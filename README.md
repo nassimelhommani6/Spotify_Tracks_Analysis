@@ -4,6 +4,7 @@
 This project focuses on analyzing a dataset of Spotify tracks over 125 different genres. The dataset was retrieved from Kaggle, and the project consists of three parts where SQL, Power BI, Talend Open Studio, Excel, and SPSS were used.The project was divided into three parts, with each part focusing on a different aspect of data engineering, data analytics, and data science.
 
 Part 1 - Data Engineering:
+
 In the first part, the team created a pipeline using Talend Open Studio to retrieve playlist data from Spotify's web API. Then ,API calls were scheduled to get weekly updates for the released radar chart done in Power BI.
 
 Part 2 - Data Analytics:
