@@ -1,5 +1,6 @@
 # Spotify Tracks Analysis
 
+![image](https://user-images.githubusercontent.com/130168330/230748883-d16c6b83-7919-4470-8c4a-3da35e7b63d0.png)
 
 This project focuses on analyzing a dataset of Spotify tracks over 125 different genres. The dataset was retrieved from Kaggle, and the project consists of three parts where SQL, Power BI, Talend Open Studio, Excel, and SPSS were used.The project was divided into three parts, with each part focusing on a different aspect of data engineering, data analytics, and data science.
 
