@@ -20,4 +20,5 @@ In the third part,SPSS was used to predict the popularity of a track by answerin
 - What is the correlation of audio characteristics?
 - Which model is best suited for this?
 
+Finally Power BI was used to construct a public dashboard that presents all pertinent findings from the analysis.
 This project provided valuable insights into music genres and track popularity. The use of various tools and techniques allowed for comprehensive analysis of the dataset, highlighting potential applications in building recommendation systems and classification purposes.
